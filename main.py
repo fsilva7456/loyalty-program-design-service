@@ -1,0 +1,1 @@
+{"content": "import os\nfrom fastapi import FastAPI\n\napp = FastAPI()", "encoding": "base64"}
